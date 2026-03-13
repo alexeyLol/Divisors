@@ -10,7 +10,7 @@ The second step: the program will print all divisors.
 | --- | --- |
 | Rust | 0 <= your number < 2<sup>128</sup> |
 | C++ | 0 <= your number < 2<sup>64</sup> |
-| Python | Any number you want (int) |
+| Python | Any unsigned number (int) |
 
 ### OUTPUT FORMAT
 ```bash
