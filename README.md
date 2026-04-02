@@ -40,8 +40,8 @@ Indeed, 2 × 3<sup>2</sup> × 5 × 3607 × 3803 = 1234567890
 ## Time Complexity
 
 ![scatter](scatter.png)
-<u>xaxis</u> - values 0 to 1 000 000 (includes 0 because my program returns 0 here)  
-yaxis - time duration, microsecs
+**xaxis** - values 0 to 1 000 000 (includes 0 because my program returns 0 here)  
+**yaxis** - time duration, microsecs
 
 The measurements based on the algorithm in the **Rust** language. The scatter was made by Plotly (Python).
 
